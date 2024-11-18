@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18305303727",
+    "project_id": "ratemate-20be0",
+    "storage_bucket": "ratemate-20be0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18305303727:android:4e68c21aa656c01706405a",
+        "android_client_info": {
+          "package_name": "com.example.projects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRt4dXnpfbS4R9a1LGP663GbylSI7jGto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
